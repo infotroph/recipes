@@ -1,0 +1,75 @@
+Fermented pickles, 2016-01-25
+
+1.5 pounds pickling cucumbers. wash, Cut off blossom ends, cut in lengthwise quarters.
+7 cloves garlic. peel & lightly smash
+3 dried birdseye chilis
+~1 tsp dill seed
+1 tsp mustard seed
+
+Brine: 
+	1 L water
+	35 g pickling salt
+	2 g calcium chloride
+
+Packed all in short/wide 1/2 gal jar -- fairly loose fit, could have held more. Weighed down top with plastic deli container full of water.
+
+Notes: 
+
+* Cukes came from the reduced produce rack; slightly yellow and a bit limp already. Not ideal starting point, but let's try it! 
+
+* 3.5% salt is from Sandor Katz suggestions: on the low-salt side both because I'm planning for a short fermentation and don't need long keeping time, and because Katz suggests lower salt in cooler conditions (i.e. winter).
+
+* 2 g CaCl is a near-wild guess: extension sources disagree on whether to use CaCl in fermented pickles, but seem to lean towards "not needed" rather than that it's a problem. suggested amount is all over the map, but includes "not more than 1 tsp per gallon of brine" and "3/4 tsp per quart". On my scale, 1 tsp CaCl is ~4.6-4.9 g --> ~(4.8 g/tsp)/(3.785 L/gal) ~= 1.27 g/L, (0.75*4.8 g/tsp)/(0.95 L/qt) = 3.78 g/L. Let's split the difference and make it 0.2%.
+
+2016-01-28: Sampled one pickle. Starting to get sour, but not very salty at all.
+
+2016-01-29: Oops. Plastic container used as weight has holes in the bottom (were those there to start with??), has been leaking unsalted water into brine. 
+How badly diluted is it? Best guess: ~3 fills of ~1/2 cup each = 350 mL added = 35 g NaCl / 1350 mL water => brine is now ~2.6% NaCl if well-mixed, not including dilution from cucumbers. Overflow tray contains ~200 mL, which seems consistent with ~350 mL minus evaporation.
+Let's bring it back up to around 4% salt: After overflow, jar contains about 1L at 2.6% = 26 g NaCl, want 4% = 40 g/L, so add 40-26 = 14 g salt.
+Poured off 500 mL of existing brine, added 14 g salt, shook to dissolve, poured back. Not bothering to correct CaCl concentration.
+
+Broke into these for Boar's Head 2016-02-06 and kept in fridge from then. They were OK 02-06, but a bit better the next week.
+
+----------
+
+2016-04-25
+
+	1 lb Persian pickling cukes, most whole w/blossom end off, a couple in lengthwise halves
+	1 radish (in half)
+	3 cloves garlic
+	sprinkle mustard seed (~1/2 tsp?)
+	1 dried Birdseye chili
+	
+	500 mL water
+	20 g pickling salt = 4%
+	1 g CaCl = 0.2%
+
+	Packed in ~750-ml sauce jar, top weighted with a baby-food jar. Initial fill used ~300 mL, rest stored in fridge for topups.
+
+2016-07-31
+	
+	~1.5 lb green beans (from Devon Market, in OK but not great shape)
+	2 cloves garlic, sliced
+	~3 small heads dill
+	1 dried birdseye chili
+	~2 tsp black mustard seeds
+
+	1200 mL water
+	50 g pickling salt = 4.2%
+	1 g CaCl = 0.08%
+
+	Didn't record when I moved these to the fridge, but started eating them Aug 7 and they were excellent. Use this recipe again!
+
+2016-09-17
+
+	1 lb watermelon rind = half a basketball-sized melon after peeling and cutting into ~1/2" x 2" chunks
+	12 g sliced ginger
+	~1 tsp each black pepper, cloves, allspice -- all whole
+
+	500 mL water
+	21 g pickling salt = 4.2%
+	0.43 g CaCl = 0.086%
+
+	Packed in narrow-mouth 1 qt Mason jar, ~150 mL brine left over
+	
+
