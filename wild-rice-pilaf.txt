@@ -3,18 +3,22 @@ Wild Rice Pilaf
 
 Serves 4 very generously as a main holiday side, 8 if there's stuffing too
 
-150 g wild rice (~3/4 cup)
-150 g white basmati rice (~3/4 cup)[1]
-100 g leek (about half of a 1" diameter x 18" long leek)
-100 g celery (a couple ribs)
-2 cloves garlic
-900 mL chicken or vegetable stock (~3 3/4 cups)[2]
-25 g dried mushrooms (a nice big handful)[3]
-2 bay leaves
-2 tsp dried thyme
-1/2 tsp black pepper
-100 g hazelnuts (~1 cup)
-vegetable oil
+
+Ingredients
+
+- 150 g wild rice (~3/4 cup)
+- 150 g white basmati rice (~3/4 cup)[1]
+- 100 g leek (about half of a 1" diameter x 18" long leek)
+- 100 g celery (a couple ribs)
+- 2 cloves garlic
+- 900 mL chicken or vegetable stock (~3 3/4 cups)[2]
+- 25 g dried mushrooms (a big handful)[3]
+- 2 bay leaves
+- 2 tsp dried thyme
+- 1/2 tsp ground black pepper
+- 100 g hazelnuts (~1 cup)
+- vegetable oil
+
 
 Prep
 
@@ -24,9 +28,10 @@ Prep
 * Mince garlic.
 * Toast hazelnuts in a dry skillet. Let them cool, chop coarsely, and set aside[5].
 
+
 Cook
 
-* Put a big glug of oil into a pot that holds at least 2 L[6].
+* Put a big glug of oil into a pot that holds at least 2.5 liters[6].
 * Add both rices and stir over medium-high heat until it smells toasty and starts to make a few popping noises but isn't browning yet.
 * Add the leek, celery, and garlic, and keep sauteeing until they start to soften a little bit.
 * Add stock, mushrooms, bay leaves, pepper, and thyme. Stir, taste the liquid, and add salt if needed.
@@ -39,9 +44,9 @@ Cook
 
 Notes
 
-[1] You can use brown long-grained rice instead of white basmati. This gives a slightly heartier taste, but the difference is smaller than you think because the wild rice still dominates. Using brown rice also has the advantage that its cook time is more closely matched to the cook time of the wild rice, so it's easier to judge when the whole dish is done. If you make this change it will use more liquid, so check after 30 minutes and add hot water if needed. How much more? I keep forgetting to measure, but more than I expect.
+[1] You can use brown long-grained rice instead of white basmati. This gives a slightly heartier taste, but the difference is small because the wild rice flavor still dominates. Using brown rice also has the advantage that it cooks at close to the same speed as the wild rice, so it's easier to judge when the whole dish is done. Brown rice will also use more liquid, but I keep forgetting to measure how much more.
 
-[2] This is the amount I used last time and it turned out OK, but getting the right liquid ratios is tricky. The wild rice, white rice, and dry mushrooms all take up different amounts and at different rates. Fortunately the texture doesn't rely on precise steam cooking, so it's fine to open the lid and add water as needed or even to uncover the pan and simmer off the extra water if it's still damp when the grains are cooked. 
+[2] The amount of liquid needed is surprisingly hard to pin down! The wild rice, white rice, and dry mushrooms all take up different amounts and at different rates. Fortunately the texture doesn't rely on precise steam cooking, so it's fine to open the lid and add water or stock as needed, or conversely to uncover the pan and simmer off the extra if it's still too damp after the grains are cooked.
 
 [3] The mushrooms in my family's version are dried morels. If you're lucky enough to forage them yourself or willing to pay through the nose for them, they'll make it transcendent. If not, shiitake from your favorite Asian market are still glorious.
 
