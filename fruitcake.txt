@@ -148,3 +148,64 @@ in oven 21:45 at 150 C
 	* thermometer stem comes out clean => passes toothpick test
 	* I think I had decided this thermometer reads a few degrees low at the high end, so maybe "200" if 205 anyway
 Cooled in pans until 01:00, then moved to rack while still in parchment
+
+
+------------------
+
+2020-12-12:
+
+pineapple 60
+fig 130
+apple 40 + 80 = 120
+prune 90
+apricot 250
+raisin 250 (used krenten)
+date 250
+	= 1150 g fruit
+
+Fruit volume seems larger than previous years: 2L plastic pitcher is level full before rehydrating! Moved to stockpot to allow room for expansion, added 350 mL rum (Ron Abuelo 7-year Anejo), rehydrated overnight... no, we were out of eggs and then I was out of energy. Rehydrated ~2.5 days.
+
+
+2020-12-15
+
+dry: As 2019 except cloves closer to 1/4 tsp than 1/2 (limited supply)
+
+wet: 
+	400 g brown sugar
+	250 g unsalted butter
+	6 eggs (added 1 at a time)
+	80 g molasses
+	100 g white sugar
+	juice of 1/2 lemon + 1 clementine = 54 g
+	100 g apple juice
+
+	No maple syrup available this year, so converting:
+	Most guidelines on conversion say to use ~3/4 cup syrup to 1 cup sugar, when weight mentioned they say substitute 1:1.
+	Comparing nutrition labels and several weight conversion tables, I get:
+		Maple syrup: 1 cup weighs ~340 g, 100 g contains 260 kcal and 60 g sugars
+			=> 3/4 cup = 0.75*340*260/100 = 663 kcal, 0.75*340*60/100 = 153 g sugar
+
+			0.75 cup * 340 g/cup * 260 kcal / 100 g =
+		White sugar: 1 cup ~= 200 g, 100g contains 387 kcal and 100 g sugar.
+			=> 1 cup = 774 kcal / 200 g sugar
+	I don't get it, but whatever. Using 100g white sugar in place of 100g maple syrup last year.
+
+	Mixed as in 2018, but added apple juice before eggs and all in one go -> emulsion broke, but proceeded as normal anyway.
+
+	150 g walnuts, 150 g hazelnuts
+
+	Divided into three loaf pans: 29*14*7 ~2/3 full, two 23*13*7 (one ~1/3 full, other ~2/3).
+	In oven 12:50 PM at 150C
+	14:30: big load 180F, smaller loaves ~195F. Reduced heat to 135C.
+	15:00: all 3 loaves ~190-198F
+	15:45: all loaves ~195-198.
+		Rechecked thermometer in boiling water: reads 205F -> reading of 198 is probably close to target of 205-209.
+	Loaves out 15:45, cooled in pan until 16:30 then on rack in paper until 11:30.
+
+	Perforated loaves with a skewer every ~inch, poured 1 shot rum over top of each smaller loaf and 2 shots (one on top, then flipped and poured other on bottom) on larger loaf. 
+
+	Wrapped in parchment, then put in plastic bags, then wrapped in foil, stored until Dec 24 before cutting
+
+	Tasting notes: Maybe a touch heavy on the molasses flavor. Next year, account for darkness of rum when planning how much molasses to use.
+
+	
